@@ -1,0 +1,10 @@
+export default function Home() {
+  return (
+    <div style={{padding: '50px', textAlign: 'center', background: 'linear-gradient(135deg, #667eea 0%, #764ba2 100%)', minHeight: '100vh', color: 'white'}}>
+      <h1 style={{fontSize: '3rem', marginBottom: '20px'}}>ScratchStrategy™</h1>
+      <p style={{fontSize: '1.5rem', marginBottom: '30px'}}>Revolutionary Scratch Card Gaming</p>
+      <p style={{fontSize: '1rem'}}>✅ Deployment Working!</p>
+      <p style={{fontSize: '1rem'}}>If you see this, the site is live and we can add back the game.</p>
+    </div>
+  )
+}
